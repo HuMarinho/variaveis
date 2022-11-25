@@ -1,6 +1,5 @@
-const r = 1
+const r = 2
 const c = 2 * (Math.PI * r);
-console.log(c);
+console.log(` o perimetro é ${c}`);
 const a = Math.PI * Math.pow(r, 2);
-console.log(a);
-
+console.log(`a área é ${a} `);
